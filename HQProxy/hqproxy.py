@@ -1,6 +1,5 @@
 from fp.fp import FreeProxy
-from urllib import request
-import socket
+import urllib.request,socket
 
 proxy = FreeProxy(country_id=['GB','US']).get()
 prox = proxy[7:]
