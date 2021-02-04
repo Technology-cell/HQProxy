@@ -4,7 +4,7 @@ setuptools.setup(
     name='HQProxy',
     version='1.0.0',    
     description='HQ Trivia Proxy UK & USA',
-    url='',
+    url='https://github.com/Technology-cell/HQProxy',
     author='Technology-cell',
     author_email='kd2346751@gmail.com',
     packages=['HQProxy'],
